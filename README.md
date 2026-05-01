@@ -49,7 +49,21 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** |Um Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-altoria-de-dados/) |
+| **Simulador de Poupança** |Um simulador que analisa o crescimento de um investimento mês a mês com base em aportes variáveis. | [Ver Projeto](./projeto-simulador-de-popança/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Notas** |Um sistema que gerencia a entrada de notas de alunos e decide quem precisa de recuperação. | [Ver Projeto](./projeto-sistema-de-notas/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas.. | [Ver Projeto](./projeto-analisador-de-clima/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas.. | [Ver Projeto](./projeto-analisador-de-clima/) |
+
+
 
 ---
  
