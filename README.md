@@ -57,11 +57,11 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas.. | [Ver Projeto](./projeto-analisador-de-clima/) |
+| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas. | [Ver Projeto](./projeto-analisador-de-clima/) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas.. | [Ver Projeto](./projeto-analisador-de-clima/) |
+| **Processador de Vendas** |Um sistema que deve calcular o total de uma compra, aplicando descontos progressivos e validando o estoque. | [Ver Projeto](./projeto-processador-de-vendas/) |
 
 
 
