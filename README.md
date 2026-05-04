@@ -13,9 +13,8 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na Univericidade Cidade de São Paulo -  UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Frontend / Análise de Dados.
  
-* **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker.
+* **Habilidades Técnicas:** Python, Java, Figma, Photoshp, After Efects.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em Projeto de Iniciação Científica/Estágio onde desenvolvi resultado principal.
  
 ---
  
@@ -57,7 +56,14 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Processador de Vendas** |Um sistema que deve calcular o total de uma compra, aplicando descontos progressivos e validando o estoque. | [Ver Projeto](./projeto-processador-de-vendas/) |
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Navegação e Evacuação Espacial** |Um simulador de evacuação para um "agente" cego (o computador) tentar encontrar a saída baseado no seu mapa. Como a IA desconhece a planta do seu prédio, a lógica de navegação terá que ser inteiramente arquitetada por você. | [Ver Projeto](./projeto-navegação-e-evacuação-espacial/) |
 
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **O Algoritmo do Microclima Local** |um programa que processa dados climaticos precisos de um local específico | [Ver Projeto](./projeto-algoritmo-do-microclima-local/) |
 
 ---
  
