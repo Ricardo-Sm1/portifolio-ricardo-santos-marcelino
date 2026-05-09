@@ -40,28 +40,12 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** |Um Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-altoria-de-dados/) |
 | **Simulador de Poupança** |Um simulador que analisa o crescimento de um investimento mês a mês com base em aportes variáveis. | [Ver Projeto](./projeto-simulador-de-popança/) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Sistema de Notas** |Um sistema que gerencia a entrada de notas de alunos e decide quem precisa de recuperação. | [Ver Projeto](./projeto-sistema-de-notas/) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas. | [Ver Projeto](./projeto-analisador-de-clima/) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Processador de Vendas** |Um sistema que deve calcular o total de uma compra, aplicando descontos progressivos e validando o estoque. | [Ver Projeto](./projeto-processador-de-vendas/) |
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Navegação e Evacuação Espacial** |Um simulador de evacuação para um "agente" cego (o computador) tentar encontrar a saída baseado no seu mapa. Como a IA desconhece a planta do seu prédio, a lógica de navegação terá que ser inteiramente arquitetada por você. | [Ver Projeto](./projeto-navegação-e-evacuação-espacial/) |
-
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **O Algoritmo do Microclima Local** |um programa que processa dados climaticos precisos de um local específico | [Ver Projeto](./projeto-algoritmo-do-microclima-local/) |
-
+| **Sistema de Auditoria de Recursos Corporativos** |Esse sistema é um script em Python que calcula o orçamento total de uma empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./projeto_sistema_de_auditoria/) |
 ---
  
 ### 🏗 Estrutura do Repositório
