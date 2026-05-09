@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
  
 ## 📖 Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de Programação de Computadores do curso de Analíse e Desenvolvimentos de Sistemas.
+Este projeto foi desenvolvido como parte da disciplina de Programação de Computadores do curso de Análise e Desenvolvimentos de Sistemas.
 O objetivo do script é processar e calcular o orçamento de uma estrutura organizacional complexa (dicionários aninhados) de uma multinacional, aplicando regras de negócio dinâmicas e auditoria de execução.
  
 A solução foi arquitetada utilizando conceitos avançados de Python para garantir flexibilidade, performance e rastreabilidade.
