@@ -40,7 +40,6 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** |Um Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-altoria-de-dados/) |
 
-| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Simulador de Poupança** |Um simulador que analisa o crescimento de um investimento mês a mês com base em aportes variáveis. | [Ver Projeto](./projeto-simulador-de-popança/) |
 
