@@ -66,8 +66,8 @@ os valores financeiros que devem ser somados.
  
 ## 👤 Autor
  
-* **[Ricardo Santos Marcelino]** * LinkedIn: [https://www.linkedin.com/in/ricardo-santos-3b3a04291/]
-* E-mail: [ricardo.marcelino455@gmai.com]
+* **Ricardo Santos Marcelino** * LinkedIn: https://www.linkedin.com/in/ricardo-santos-3b3a04291/
+* E-mail: ricardo.marcelino455@gmai.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
