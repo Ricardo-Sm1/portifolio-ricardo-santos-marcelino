@@ -39,10 +39,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritimo de Auditoria de Dados** |Um Programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritomo-de-altoria-de-dados/) |
-| **Simulador de Poupança** |Um simulador que analisa o crescimento de um investimento mês a mês com base em aportes variáveis. | [Ver Projeto](./projeto-simulador-de-popança/) |
-| **Sistema de Notas** |Um sistema que gerencia a entrada de notas de alunos e decide quem precisa de recuperação. | [Ver Projeto](./projeto-sistema-de-notas/) |
-| **Analisador de Clima** |Um sistema que coleta dados de temperatura de uma semana e gera um relatório de alertas. | [Ver Projeto](./projeto-analisador-de-clima/) |
-| **Processador de Vendas** |Um sistema que deve calcular o total de uma compra, aplicando descontos progressivos e validando o estoque. | [Ver Projeto](./projeto-processador-de-vendas/) |
+| **Traduzindo Lógica para Python** |Este projeto reúne um conjunto de módulos Python desenvolvidos com foco em **lógica de programação aplicada**, abrangendo cenários do dia a dia como gestão de vendas, análise climática, controle de notas escolares e simulação de investimentos.
+. | [Ver Projeto](./projeto_logica_para_python/) |
 | **Navegação e Evacuação Espacial** |Um simulador de evacuação para um "agente" cego (o computador) tentar encontrar a saída baseado no seu mapa. Como a IA desconhece a planta do seu prédio, a lógica de navegação terá que ser inteiramente arquitetada por você. | [Ver Projeto](./projeto-navegação-e-evacuação-espacial/) |
 | **O Algoritmo do Microclima Local** |um programa que processa dados climaticos precisos de um local específico | [Ver Projeto](./projeto-algoritmo-do-microclima-local/) |
 | **Sistema de Auditoria de Recursos Corporativos** |Esse sistema é um script em Python que calcula o orçamento total de uma empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./projeto_sistema_de_auditoria/) |
