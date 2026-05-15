@@ -47,8 +47,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **O Algoritmo do Microclima Local** |um programa que processa dados climaticos precisos de um local específico | [Ver Projeto](./projeto-algoritmo-do-microclima-local/) |
 | **Sistema de Auditoria de Recursos Corporativos** |Esse sistema é um script em Python que calcula o orçamento total de uma empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./projeto_sistema_de_auditoria/) |
 | **Sistema Criador de Emojis** |Este projeto consiste em um processador de imagens em pixel art que representa emojis como matrizes de pixels RGB e aplica transformações de cor programaticamente. O objetivo principal é demonstrar como imagens digitais podem ser manipuladas pixel a pixel por meio de estruturas de dados nativas do Python, sem o uso de bibliotecas de processamento de imagem de alto nível. | [Ver Projeto](./projeto_criador_de_emojis/) |
-| **Sistema de Solução Algoritimica** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./solucao_algoritimica/) |
-| **Sistema de Caixa de Troco** |Um algoritimo que lê um valor de compra e valor pago, calcula e devolve o valor do trco com descontos. | [Ver Projeto](./sistema_de_caixa/) |
+| **Sistema de Solução Algoritimica** |Uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto_solucao_algoritimica/) |
+| **Sistema de Caixa de Troco** |Um algoritimo que lê um valor de compra e valor pago, calcula e devolve o valor do trco com descontos. | [Ver Projeto](./projeto_sistema_de_caixa/) |
 
 ---
  
