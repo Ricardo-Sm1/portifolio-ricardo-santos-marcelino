@@ -70,4 +70,4 @@ os valores financeiros que devem ser somados.
 * E-mail: ricardo.marcelino455@gmai.com
  
 ---
-*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
+[🔝 Voltar ao início](https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino)
