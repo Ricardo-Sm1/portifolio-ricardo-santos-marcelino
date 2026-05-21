@@ -57,4 +57,4 @@ Desenvolvido como parte da disciplina de **Algoritmos e Estrutura de Dados**, o 
 
 ## 📁 Estrutura do Projeto
 
-[🔝 Voltar ao início](https://github.com/Ricardo-Sm1/portifolio-ricardo-santos-marcelino/tree/main)
+[🔝 Voltar ao início](https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino)
