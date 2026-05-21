@@ -113,4 +113,4 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ---
 
-[⬆ Voltar ao início](#-https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino)
+[🔝 Voltar ao início](https://github.com/Ricardo-Sm1/portfolio-ricardo-santos-marcelino)
