@@ -44,7 +44,7 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Sistema Criador de Emojis** |Este projeto consiste em um processador de imagens em pixel art que representa emojis como matrizes de pixels RGB e aplica transformações de cor programaticamente. O objetivo principal é demonstrar como imagens digitais podem ser manipuladas pixel a pixel por meio de estruturas de dados nativas do Python, sem o uso de bibliotecas de processamento de imagem de alto nível. | [Ver Projeto](./projeto_criador_de_emojis/) |
 | **Engenharia de Soluções Logicas** |Este projeto consiste em um algoritmo de triagem clínica que classifica automaticamente pacientes em níveis de prioridade de atendimento com base em sinais vitais e fatores de risco coletados na entrada da emergência. O objetivo principal é simular o protocolo de triagem de Manchester, determinando a urgência do atendimento de forma estruturada e reproduzível, eliminando subjetividade na fila de espera. | [Ver Projeto](./projeto_solucao_algoritimica/) |
 | **Modularização** |Este projeto consiste em um algoritmo de cálculo de troco que, a partir do valor de uma compra e do valor pago pelo cliente, determina automaticamente o troco devido e o decompõe no menor número de cédulas possível. O objetivo principal é simular o comportamento de um caixa eletrônico ou PDV (ponto de venda), aplicando lógica de divisão e módulo para distribuir o troco entre as denominações disponíveis. | [Ver Projeto](./projeto_sistema_de_caixa/) |
-| **Piloto HTML** |Projeto Piloto em HTML, testes de tags em bloco de notas. | [Ver Projeto](./pilotoHTML/) |
+| **Piloto HTML** |Projeto Piloto em HTML, testes de tags em bloco de notas. | [Ver Projeto](./piloto_HTML/) |
 ---
  
 ### 🏗 Estrutura do Repositório
